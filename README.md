@@ -1,6 +1,6 @@
 # Quiara Kirkland – Python Security Engineer Portfolio
 
-Welcome! I'm Quiara Kirkland, an aspiring Python Security Engineer. This portfolio showcases my skills in Python and cybersecurity through hands-on projects.
+Welcome! I'm Quiara Kirkland, an aspiring Python Security Engineer. This portfolio showcases my skills in Python and Cybersecurity through hands-on projects.
 
 ## Projects
 
@@ -16,5 +16,5 @@ I am passionate about Cybersecurity and Python development. My goal is to build 
 
 ## Contact
 
-- Email: quiara.kirkland@email.com
-- LinkedIn: [Your LinkedIn] 
+- Email: echoprotocol@tuta.com
+- LinkedIn: https://www.linkedin.com/in/quiara-kirkland-659611167/
