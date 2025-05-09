@@ -1,10 +1,11 @@
 # Quiara Kirkland
 
-**Aspiring Python Security Engineer**
+**Python Security Engineer**
 
 - Email: echoprotocol@tuta.com
+- Portfolio: [https://github.com/quiara-kirkland-portfolio] 
 - LinkedIn: [quiara-kirkland-659611167](https://www.linkedin.com/in/quiara-kirkland-659611167/)
-- Location: [Your City, State]
+- Location: [Philadelphia, PA 19131]
 
 ---
 
@@ -49,24 +50,24 @@ Detail-oriented and passionate Python Security Engineer with hands-on experience
 
 ## Education
 
-**[Your Degree or Certification]**  
-[Your School or Platform], [Year]
+**[B.S. Cybersecurity and Information Assurance]**  
+[Western Governor's University], [08/2025]
 
 ---
 
 ## Experience
 
-**[Your Most Relevant Job Title]**  
-[Your Company], [Year-Year]
-- [Brief description of your responsibilities and achievements.]
+**[Processing Supervisor]**  
+[Free Library of Philadelphia], [2014-2025]
+- [Aided, and oriented patrons in the use of computers, tablets, e-readers and other technical resources.
+ Delivered formal and informal digital skills trainings to technology users of varying competency levels.
+ Provided on-site support to resolve network and system issues with clear guidance to non-technical
+users.]
 
 ---
 
 ## Certifications
-- [e.g., CompTIA Security+, Certified Ethical Hacker, etc.]
+- [Anaplan Certified Model Builder, Aviatrix Certified Engineer - Multi-Cloud Network Associate, CompTIA A+, CompTIA Network+, GIAC GSEC, ISC2 Certified in Cybersecurity, ITIL v4, ServiceNow CSA]
 
 ---
 
-## Additional Information
-- GitHub: [Add your GitHub link here]
-- Portfolio: [https://github.com/quiara-kirkland-portfolio] 
